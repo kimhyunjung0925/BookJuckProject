@@ -19,12 +19,7 @@ body { min-width: 580px; min-height: 100%; display: grid; grid-template-rows: au
 
 
 .menuDiv {
-    background-color: cornflowerblue;
-    width: 100%;
-    height: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    background-color: cornflowerblue; width: 100%; height: 50px; display: flex; align-items: center; justify-content: center;
 }
 
 .clicked { background-color: lavender; font-size:large; }

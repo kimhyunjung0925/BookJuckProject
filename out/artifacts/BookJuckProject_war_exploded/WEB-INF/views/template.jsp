@@ -20,14 +20,15 @@
                 <div class="container">
                     <!--///////로그인, 장바구니 부분////////-->
                     <div class="main_first">
-                        <div><a href="/project/login/login.html" >로그인</a></div>
-                        <div><a href="/project/cart/cart.html">장바구니</a> </div>
+                        <div><a href="/user/login" > 로그인 </a></div>
+                        <div><a href="/user/join" > 회원가입 </a></div>
+                        <div><a href="">장바구니</a> </div>
                     </div>
 
                     <!--//////로고랑 검색창 부분 /검색창 그리드로 바꿔서 창 줄여도 안깨지게 하기///////-->
-                    <div class="flex justify_center align_center">
+                    <div class="flex justify_center align_items_center">
                         <div class="m-r-40">
-                            <a href="/project/main/main.html"><img src="/res/upload/images/logo.png" class="main_icon"></a>
+                            <a href="/main"><img src="/res/upload/images/logo.png" class="main_logo"></a>
                         </div>
                         <div>
                             <div class="search">
