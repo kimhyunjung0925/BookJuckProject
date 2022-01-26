@@ -12,7 +12,7 @@
 <%--  TODO  text 칸 가로길이 자동 맞추기  --%>
     <section class="join_section height100">
         <div class="grid">
-            <div class="flex justify_center">
+            <div class="flex justify_content_center">
                 <img src="/res/upload/images/logo.png" class="main_logo"> <h1>회원가입</h1>
             </div>
 

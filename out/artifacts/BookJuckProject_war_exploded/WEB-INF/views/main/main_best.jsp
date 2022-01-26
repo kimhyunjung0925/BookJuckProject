@@ -10,7 +10,7 @@
 </head>
 <body>
 <section>
-    <div class="width100 flex justify_center">
+    <div class="width100 flex justify_content_center">
         <div class="grid width80">
             <div class="m-t-20 m-b-20"><a href="">BEST ></a></div>
 
@@ -28,7 +28,7 @@
                             <div class="font_bold p_10"> 1 </div>
                             <div class="grid">
                                 <div_>
-                                    <img src="/res/upload/XL.jfif" class="best_img_size">
+                                    <img src="/res/upload/XL.jfif" class="book_img_1013">
                                 </div_>
                                 <div class="best-info">
                                     <strong class="best-info__name">아몬드</strong>
@@ -46,7 +46,7 @@
                             <div class="font_bold p_10"> 1 </div>
                             <div class="grid">
                                 <div_>
-                                    <img src="/res/upload/XL.jfif" class="best_img_size">
+                                    <img src="/res/upload/XL.jfif" class="book_img_1013">
                                 </div_>
                                 <div class="best-info">
                                     <strong class="best-info__name">아몬드</strong>
@@ -64,7 +64,7 @@
                             <div class="font_bold p_10"> 1 </div>
                             <div class="grid">
                                 <div_>
-                                    <img src="/res/upload/XL.jfif" class="best_img_size">
+                                    <img src="/res/upload/XL.jfif" class="book_img_1013">
                                 </div_>
                                 <div class="best-info">
                                     <strong class="best-info__name">아몬드</strong>
@@ -82,7 +82,7 @@
                             <div class="font_bold p_10"> 1 </div>
                             <div class="grid">
                                 <div_>
-                                    <img src="/res/upload/XL.jfif" class="best_img_size">
+                                    <img src="/res/upload/XL.jfif" class="book_img_1013">
                                 </div_>
                                 <div class="best-info">
                                     <strong class="best-info__name">아몬드</strong>

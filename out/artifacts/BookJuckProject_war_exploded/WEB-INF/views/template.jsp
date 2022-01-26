@@ -22,11 +22,11 @@
                     <div class="main_first">
                         <div><a href="/user/login" > 로그인 </a></div>
                         <div><a href="/user/join" > 회원가입 </a></div>
-                        <div><a href="">장바구니</a> </div>
+                        <div><a href="/cart">장바구니</a> </div>
                     </div>
 
                     <!--//////로고랑 검색창 부분 /검색창 그리드로 바꿔서 창 줄여도 안깨지게 하기///////-->
-                    <div class="flex justify_center align_items_center">
+                    <div class="flex justify_content_center align_items_center">
                         <div class="m-r-40">
                             <a href="/main"><img src="/res/upload/images/logo.png" class="main_logo"></a>
                         </div>
@@ -40,7 +40,7 @@
 
                     <!--/////카테고리 부분////////-->
 
-                    <div class="flex header_menu back_color_blue justify_center">
+                    <div class="flex header_menu back_color_blue justify_content_center">
                         <ul class="flex main_category ">
                             <li><a href="#">베스트</a>
                                 <ul>
@@ -84,7 +84,7 @@
                                     <li><a href="#">생활/요리/건강</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">고객센터</a>
+                            <li><a href="/cscenter">고객센터</a>
                                 <ul>
                                     <li><a href="#">고객센터 안내사항</a></li>
                                     <li><a href="#">자주 묻는 질문</a></li>

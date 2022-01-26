@@ -11,7 +11,7 @@
 <body class="height100">
     <div class="mypage_info">
         <!--마이페이지 홈/정보변경/고객센터 등 왼쪽 서브 메뉴-->
-        <div class="flex justify_center back_color_grey">
+        <div class="flex justify_content_center back_color_grey">
             <div class="mypage_submenu">
                 <h3 class="m-t-20">마이페이지</h3>
                 <div class="mypage_submenu_item">

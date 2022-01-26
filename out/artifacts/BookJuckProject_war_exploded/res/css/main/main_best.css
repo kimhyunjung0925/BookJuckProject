@@ -8,8 +8,6 @@ body { min-width: 580px; min-height: 100%; display: grid; grid-template-rows: au
 /* ================  메인베스트부분 ================== */
 
 
-.best_img_size { width: 100px; height: 130px; }
-
 .best-list__body .best-list__item { margin: 30px auto 60px; padding: 0 20px; }
 .best-list__body .best-info { margin: 20px 0 10px; }
 .best-list__body .best-info__name { font-size: 18px; }
